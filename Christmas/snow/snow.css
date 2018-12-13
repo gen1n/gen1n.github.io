@@ -2,7 +2,7 @@ body { background-color:transparent; }
 #snow{
 	background: none;
 	font-family: Androgyne;
-	background-image: url('http://www.wearewebstars.dk/codepen/img/s1.png'), url('http://www.wearewebstars.dk/codepen/img//s2.png'), url('http://www.wearewebstars.dk/codepen/img//s3.png');
+	background-image: url('https://gen1n.github.io/Christmas/snow/snow_Images/s1.png'), url('https://gen1n.github.io/Christmas/snow/snow_Images/s2.png'), url('https://gen1n.github.io/Christmas/snow/snow_Images/s3.png');
 	height: 100%;
 	left: 0;
 	position: absolute;
