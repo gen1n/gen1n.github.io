@@ -21,7 +21,7 @@ var select = function(s) {
 		loop: false,
 		prerender: false,
 		autoplay: false,
-		path: 'data.json'
+		path: 'https://gen1n.github.io/Bodymovin/Toggle/data.json'
 	}, anim;
 
 	anim = lottie.loadAnimation(animData);
