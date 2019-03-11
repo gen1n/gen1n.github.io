@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2019-03-11T16:30:34">
+<HSD>
+<ID>1</ID>
+<STEEPLEO_x0020_Primary>Social</STEEPLEO_x0020_Primary>
+<Steepleo_x0020_Sub_x0020_Category>Population</Steepleo_x0020_Sub_x0020_Category>
+<Trend_x0020_Name>Youth Employability</Trend_x0020_Name>
+<Trend_x0020_Description>Emerging patterns of mobility (especially intra‐regionally) either naturally or through deliberate economic integration</Trend_x0020_Description>
+<Impact_x0020_Type>opportunity</Impact_x0020_Type>
+<Threat_x002F_Opportunity_x0020_category>Improvement</Threat_x002F_Opportunity_x0020_category>
+<RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>A favorable long-term outlook is supported by continued relatively robust GDP growth, a growing population and significant structural reforms in emerging market (EM) countries</RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>
+<Strategic_x0020_Impact_x0020_Score>5</Strategic_x0020_Impact_x0020_Score>
+<Operational_x0020_Impact_x0020_Score>3</Operational_x0020_Impact_x0020_Score>
+<Time_x0020_to_x0020_Impact_x0020_AFP>0 -2 years</Time_x0020_to_x0020_Impact_x0020_AFP>
+<Likelihood_x0020_Score>5</Likelihood_x0020_Score>
+<Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>20</Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>
+<Primary_x0020_Strategy>1st Strategy</Primary_x0020_Strategy>
+<Strategy_x0020_touchpoint>Policing</Strategy_x0020_touchpoint>
+<Strategy_x0020_touchpoint2>Terrorism</Strategy_x0020_touchpoint2>
+<Capability_x0020_1>Crime Prevention</Capability_x0020_1>
+<Capability_x0020_2>Forensic</Capability_x0020_2>
+<capability_x0020_3>Intel Analysis &amp; Management </capability_x0020_3>
+</HSD>
+<HSD>
+<ID>2</ID>
+<STEEPLEO_x0020_Primary>Social</STEEPLEO_x0020_Primary>
+<Steepleo_x0020_Sub_x0020_Category>Migration</Steepleo_x0020_Sub_x0020_Category>
+<Trend_x0020_Name>Entrepreneurship</Trend_x0020_Name>
+<Trend_x0020_Description>The demographic and epidemiological transition in population, and the ageing health workforce (especially in high‐income and emerging economies) increase demand for more health and other care related workforce</Trend_x0020_Description>
+<Impact_x0020_Type>threat</Impact_x0020_Type>
+<Threat_x002F_Opportunity_x0020_category>Transformation</Threat_x002F_Opportunity_x0020_category>
+<RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>IoT will keep increasing exponentially. It will drive our current digital footprint 2X, 10X, and 100X; and we will look back and wonder why we had a special name for what amounts to most computing nodes.</RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>
+<Strategic_x0020_Impact_x0020_Score>2</Strategic_x0020_Impact_x0020_Score>
+<Operational_x0020_Impact_x0020_Score>5</Operational_x0020_Impact_x0020_Score>
+<Time_x0020_to_x0020_Impact_x0020_AFP>0 -2 years</Time_x0020_to_x0020_Impact_x0020_AFP>
+<Likelihood_x0020_Score>5</Likelihood_x0020_Score>
+<Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>20</Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>
+<Primary_x0020_Strategy>2nd Strategy</Primary_x0020_Strategy>
+<Strategy_x0020_touchpoint>Organisation</Strategy_x0020_touchpoint>
+<Strategy_x0020_touchpoint2>Commercial</Strategy_x0020_touchpoint2>
+<Capability_x0020_1>Community Policing </Capability_x0020_1>
+<Capability_x0020_2>Digital Exploitation</Capability_x0020_2>
+<capability_x0020_3>Intel Analysis &amp; Management </capability_x0020_3>
+</HSD>
+<HSD>
+<ID>3</ID>
+<STEEPLEO_x0020_Primary>Social</STEEPLEO_x0020_Primary>
+<Steepleo_x0020_Sub_x0020_Category>Stratification</Steepleo_x0020_Sub_x0020_Category>
+<Trend_x0020_Name>Macro technology</Trend_x0020_Name>
+<Trend_x0020_Description>The technological and scientific advances shapes the demand for health worker services especially the very high skill medical professionals</Trend_x0020_Description>
+<Impact_x0020_Type>opportunity</Impact_x0020_Type>
+<Threat_x002F_Opportunity_x0020_category>Operational</Threat_x002F_Opportunity_x0020_category>
+<RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>Significant EM investment opportunities in both equities and bonds do not appear in an emerging market index</RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>
+<Strategic_x0020_Impact_x0020_Score>1</Strategic_x0020_Impact_x0020_Score>
+<Operational_x0020_Impact_x0020_Score>2</Operational_x0020_Impact_x0020_Score>
+<Time_x0020_to_x0020_Impact_x0020_AFP>0 -2 years</Time_x0020_to_x0020_Impact_x0020_AFP>
+<Likelihood_x0020_Score>5</Likelihood_x0020_Score>
+<Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>20</Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>
+<Primary_x0020_Strategy>2nd Strategy</Primary_x0020_Strategy>
+<Strategy_x0020_touchpoint>Commercial</Strategy_x0020_touchpoint>
+<Strategy_x0020_touchpoint2>Cyber</Strategy_x0020_touchpoint2>
+<Capability_x0020_1>Digital Exploitation</Capability_x0020_1>
+<Capability_x0020_2>Humanint</Capability_x0020_2>
+</HSD>
+<HSD>
+<ID>4</ID>
+<STEEPLEO_x0020_Primary>Technology </STEEPLEO_x0020_Primary>
+<Steepleo_x0020_Sub_x0020_Category>IT</Steepleo_x0020_Sub_x0020_Category>
+<Trend_x0020_Name>Digital reality</Trend_x0020_Name>
+<Trend_x0020_Description>The expanding demand for health services and implications on health worker supply and skill mix</Trend_x0020_Description>
+<Impact_x0020_Type>opportunity</Impact_x0020_Type>
+<Threat_x002F_Opportunity_x0020_category>Strategic</Threat_x002F_Opportunity_x0020_category>
+<RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>With their permanent capital, actively managed CEFs can take advantage of many attractive but less liquid areas in EMs that a passive strategy cannot</RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>
+<Strategic_x0020_Impact_x0020_Score>3</Strategic_x0020_Impact_x0020_Score>
+<Operational_x0020_Impact_x0020_Score>1</Operational_x0020_Impact_x0020_Score>
+<Time_x0020_to_x0020_Impact_x0020_AFP>0 -2 years</Time_x0020_to_x0020_Impact_x0020_AFP>
+<Likelihood_x0020_Score>4</Likelihood_x0020_Score>
+<Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>12</Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>
+<Primary_x0020_Strategy>1st Strategy</Primary_x0020_Strategy>
+<Strategy_x0020_touchpoint>Terrorism</Strategy_x0020_touchpoint>
+<Strategy_x0020_touchpoint2>Commercial</Strategy_x0020_touchpoint2>
+<Capability_x0020_1>Forensic</Capability_x0020_1>
+<Capability_x0020_2>Digital Exploitation</Capability_x0020_2>
+</HSD>
+<HSD>
+<ID>5</ID>
+<STEEPLEO_x0020_Primary>Technology </STEEPLEO_x0020_Primary>
+<Steepleo_x0020_Sub_x0020_Category>Communication</Steepleo_x0020_Sub_x0020_Category>
+<Trend_x0020_Name>Cloud</Trend_x0020_Name>
+<Trend_x0020_Description>The global projections of needs and demand for health workers will exceed the capacity of global health labour production; especially when newer thresholds to achieve universal health access are formulated</Trend_x0020_Description>
+<Impact_x0020_Type>threat</Impact_x0020_Type>
+<Threat_x002F_Opportunity_x0020_category>Improvement</Threat_x002F_Opportunity_x0020_category>
+<RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>As a network grows, the risk topography grows faster and faster in a dark imitation of the increasing value — and IoT will exemplify this. The steps we make now will pay handsomely in the future, and what we don’t do now will plague us for decades.</RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>
+<Strategic_x0020_Impact_x0020_Score>4</Strategic_x0020_Impact_x0020_Score>
+<Operational_x0020_Impact_x0020_Score>4</Operational_x0020_Impact_x0020_Score>
+<Time_x0020_to_x0020_Impact_x0020_AFP>0 -2 years</Time_x0020_to_x0020_Impact_x0020_AFP>
+<Likelihood_x0020_Score>5</Likelihood_x0020_Score>
+<Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>20</Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>
+<Primary_x0020_Strategy>1st Strategy</Primary_x0020_Strategy>
+<Strategy_x0020_touchpoint>Cyber</Strategy_x0020_touchpoint>
+<Strategy_x0020_touchpoint2>Cyber</Strategy_x0020_touchpoint2>
+<Capability_x0020_1>Humanint</Capability_x0020_1>
+<Capability_x0020_2>Humanint</Capability_x0020_2>
+</HSD>
+<HSD>
+<ID>6</ID>
+<STEEPLEO_x0020_Primary>Technology </STEEPLEO_x0020_Primary>
+<Steepleo_x0020_Sub_x0020_Category>Augmentation</Steepleo_x0020_Sub_x0020_Category>
+<Trend_x0020_Name>Analytics</Trend_x0020_Name>
+<Trend_x0020_Description>The increasing urbanization and its disparate impact on access to health services in some countries</Trend_x0020_Description>
+<Impact_x0020_Type>opportunity</Impact_x0020_Type>
+<Threat_x002F_Opportunity_x0020_category>Transformation</Threat_x002F_Opportunity_x0020_category>
+<RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>The tariff issue has in fact masked the reality of a global business cycle that is steadily losing momentum. This is particularly observable in China, where the latest macroeconomic data is underwhelming</RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>
+<Strategic_x0020_Impact_x0020_Score>2</Strategic_x0020_Impact_x0020_Score>
+<Operational_x0020_Impact_x0020_Score>4</Operational_x0020_Impact_x0020_Score>
+<Time_x0020_to_x0020_Impact_x0020_AFP>0 -2 years</Time_x0020_to_x0020_Impact_x0020_AFP>
+<Likelihood_x0020_Score>3</Likelihood_x0020_Score>
+<Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>9</Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>
+<Primary_x0020_Strategy>1st Strategy</Primary_x0020_Strategy>
+<Strategy_x0020_touchpoint>Communication</Strategy_x0020_touchpoint>
+<Strategy_x0020_touchpoint2>Terrorism</Strategy_x0020_touchpoint2>
+<Capability_x0020_1>Intel Analysis &amp; Management </Capability_x0020_1>
+<Capability_x0020_2>Humanint</Capability_x0020_2>
+</HSD>
+<HSD>
+<ID>7</ID>
+<STEEPLEO_x0020_Primary>Economic</STEEPLEO_x0020_Primary>
+<Steepleo_x0020_Sub_x0020_Category>Economic Inequality</Steepleo_x0020_Sub_x0020_Category>
+<Trend_x0020_Name>Blockchain</Trend_x0020_Name>
+<Trend_x0020_Description>The rapid expansion of the private health worker education market (a devolution of the education system) will serve the dual purpose of meeting the excess global demand for tertiary education and a common trade between countries that would generate revenues and economic returns</Trend_x0020_Description>
+<Impact_x0020_Type>threat</Impact_x0020_Type>
+<Threat_x002F_Opportunity_x0020_category>Operational</Threat_x002F_Opportunity_x0020_category>
+<RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>Mobile isn’t new, but it’s the favourite of CISOs and security departments to kick down the road. It’s always next year or when time permits, and security solutions are particularly weak.</RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>
+<Strategic_x0020_Impact_x0020_Score>3</Strategic_x0020_Impact_x0020_Score>
+<Operational_x0020_Impact_x0020_Score>4</Operational_x0020_Impact_x0020_Score>
+<Time_x0020_to_x0020_Impact_x0020_AFP>0 -2 years</Time_x0020_to_x0020_Impact_x0020_AFP>
+<Likelihood_x0020_Score>3</Likelihood_x0020_Score>
+<Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>8</Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>
+<Primary_x0020_Strategy>3rd Strategy</Primary_x0020_Strategy>
+<Strategy_x0020_touchpoint>Cyber</Strategy_x0020_touchpoint>
+<Strategy_x0020_touchpoint2>Commercial</Strategy_x0020_touchpoint2>
+<Capability_x0020_1>International</Capability_x0020_1>
+<Capability_x0020_2>Humanint</Capability_x0020_2>
+</HSD>
+<HSD>
+<ID>8</ID>
+<STEEPLEO_x0020_Primary>Economic</STEEPLEO_x0020_Primary>
+<Steepleo_x0020_Sub_x0020_Category>Market Failure</Steepleo_x0020_Sub_x0020_Category>
+<Trend_x0020_Name>Cognitive</Trend_x0020_Name>
+<Trend_x0020_Description>The shift in professional boundaries (scope of practice and task shifting) and how it can re‐model the health labour market –that warrants a new set of legal requirements for health consumer protection – further still the demand in health care models to address integrated patient‐centered care</Trend_x0020_Description>
+<Impact_x0020_Type>threat</Impact_x0020_Type>
+<Threat_x002F_Opportunity_x0020_category>Strategic</Threat_x002F_Opportunity_x0020_category>
+<RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>The standard enterprise response has been to limit exposure and access of mobile devices, and this has created a blind spot in our risk assessments that will lend itself to incremental increases in access and exposure. Attackers have long targeted mobile and known how to exploit it</RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>
+<Strategic_x0020_Impact_x0020_Score>4</Strategic_x0020_Impact_x0020_Score>
+<Operational_x0020_Impact_x0020_Score>5</Operational_x0020_Impact_x0020_Score>
+<Time_x0020_to_x0020_Impact_x0020_AFP>0 -2 years</Time_x0020_to_x0020_Impact_x0020_AFP>
+<Likelihood_x0020_Score>2</Likelihood_x0020_Score>
+<Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>6</Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>
+<Primary_x0020_Strategy>3rd Strategy</Primary_x0020_Strategy>
+<Strategy_x0020_touchpoint>Communication</Strategy_x0020_touchpoint>
+<Strategy_x0020_touchpoint2>Cyber</Strategy_x0020_touchpoint2>
+<Capability_x0020_1>Investigations</Capability_x0020_1>
+<Capability_x0020_2>Forensic</Capability_x0020_2>
+</HSD>
+<HSD>
+<ID>9</ID>
+<STEEPLEO_x0020_Primary>Economic</STEEPLEO_x0020_Primary>
+<Steepleo_x0020_Sub_x0020_Category>Stock Market</Steepleo_x0020_Sub_x0020_Category>
+<Trend_x0020_Name>Digital experience</Trend_x0020_Name>
+<Trend_x0020_Description>The rising demand for the  integration of health and social care in high and middle‐ income countries which will require new pathways to training and competencies around long‐term care as well as innovative financing solutions to the costs of aging and chronic care</Trend_x0020_Description>
+<Impact_x0020_Type>opportunity</Impact_x0020_Type>
+<Threat_x002F_Opportunity_x0020_category>Improvement</Threat_x002F_Opportunity_x0020_category>
+<RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>Internet and related stocks are undoubtedly going to be the key beneficiary of this trend, but not only, because this implies also a strong growth for hardware companies, such as chip manufacturers, memory suppliers, etc</RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>
+<Strategic_x0020_Impact_x0020_Score>1</Strategic_x0020_Impact_x0020_Score>
+<Operational_x0020_Impact_x0020_Score>2</Operational_x0020_Impact_x0020_Score>
+<Time_x0020_to_x0020_Impact_x0020_AFP>0 -2 years</Time_x0020_to_x0020_Impact_x0020_AFP>
+<Likelihood_x0020_Score>2</Likelihood_x0020_Score>
+<Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>4</Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>
+<Primary_x0020_Strategy>1st Strategy</Primary_x0020_Strategy>
+<Strategy_x0020_touchpoint>Communication</Strategy_x0020_touchpoint>
+<Strategy_x0020_touchpoint2>Commercial</Strategy_x0020_touchpoint2>
+<Capability_x0020_1>Leadership</Capability_x0020_1>
+<Capability_x0020_2>Digital Exploitation</Capability_x0020_2>
+</HSD>
+<HSD>
+<ID>10</ID>
+<STEEPLEO_x0020_Primary>Environment</STEEPLEO_x0020_Primary>
+<Steepleo_x0020_Sub_x0020_Category>Natural Disasters</Steepleo_x0020_Sub_x0020_Category>
+<Trend_x0020_Name>Cyber</Trend_x0020_Name>
+<Trend_x0020_Description>The growing social inequalities coupled with the increasing differences in opportunities for the development of individual capacities and career advancement, create a disfavorable situation that will largely determines the nature of migratory flows</Trend_x0020_Description>
+<Impact_x0020_Type>opportunity</Impact_x0020_Type>
+<Threat_x002F_Opportunity_x0020_category>Transformation</Threat_x002F_Opportunity_x0020_category>
+<RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>The focus has been on the digitalization wave we have experienced.  Hence, a lot of investors are focused on e-commerce and social media giants</RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>
+<Strategic_x0020_Impact_x0020_Score>5</Strategic_x0020_Impact_x0020_Score>
+<Operational_x0020_Impact_x0020_Score>2</Operational_x0020_Impact_x0020_Score>
+<Time_x0020_to_x0020_Impact_x0020_AFP>0 -2 years</Time_x0020_to_x0020_Impact_x0020_AFP>
+<Likelihood_x0020_Score>4</Likelihood_x0020_Score>
+<Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>12</Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>
+<Primary_x0020_Strategy>3rd Strategy</Primary_x0020_Strategy>
+<Strategy_x0020_touchpoint>Terrorism</Strategy_x0020_touchpoint>
+<Strategy_x0020_touchpoint2>Commercial</Strategy_x0020_touchpoint2>
+<Capability_x0020_1>Organisational Improvement</Capability_x0020_1>
+</HSD>
+<HSD>
+<ID>11</ID>
+<STEEPLEO_x0020_Primary>Environment</STEEPLEO_x0020_Primary>
+<Steepleo_x0020_Sub_x0020_Category>Climate Change</Steepleo_x0020_Sub_x0020_Category>
+<Trend_x0020_Name>Machine learning</Trend_x0020_Name>
+<Trend_x0020_Description>The emergence of social values that influence those held by the new generation of health workers, which increasingly tend to respond more to the labour market demand, supply and salary and less to the concept of public service and social accountability</Trend_x0020_Description>
+<Impact_x0020_Type>threat</Impact_x0020_Type>
+<Threat_x002F_Opportunity_x0020_category>Operational</Threat_x002F_Opportunity_x0020_category>
+<RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>This will change as mobile is not perhaps the most exposed, ubiquitous, and under-protected vector for enterprise malicious operations. Attackers will use these to infiltrate and exfiltrate</RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>
+<Strategic_x0020_Impact_x0020_Score>3</Strategic_x0020_Impact_x0020_Score>
+<Operational_x0020_Impact_x0020_Score>3</Operational_x0020_Impact_x0020_Score>
+<Time_x0020_to_x0020_Impact_x0020_AFP>0 -2 years</Time_x0020_to_x0020_Impact_x0020_AFP>
+<Likelihood_x0020_Score>1</Likelihood_x0020_Score>
+<Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>1</Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>
+<Primary_x0020_Strategy>1st Strategy</Primary_x0020_Strategy>
+<Strategy_x0020_touchpoint>Cyber</Strategy_x0020_touchpoint>
+<Strategy_x0020_touchpoint2>Cyber</Strategy_x0020_touchpoint2>
+<Capability_x0020_1>Organisational Management</Capability_x0020_1>
+</HSD>
+<HSD>
+<ID>12</ID>
+<STEEPLEO_x0020_Primary>Environment</STEEPLEO_x0020_Primary>
+<Steepleo_x0020_Sub_x0020_Category>Water Security</Steepleo_x0020_Sub_x0020_Category>
+<Trend_x0020_Name>Embedded sensors</Trend_x0020_Name>
+<Trend_x0020_Description>Emerging patterns of mobility (especially intra‐regionally) either naturally or through deliberate economic integration</Trend_x0020_Description>
+<Impact_x0020_Type>threat</Impact_x0020_Type>
+<Threat_x002F_Opportunity_x0020_category>Strategic</Threat_x002F_Opportunity_x0020_category>
+<RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>The détente around weaponisation of space has been broken as the U.S. builds a Space Force.</RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>
+<Strategic_x0020_Impact_x0020_Score>2</Strategic_x0020_Impact_x0020_Score>
+<Operational_x0020_Impact_x0020_Score>3</Operational_x0020_Impact_x0020_Score>
+<Time_x0020_to_x0020_Impact_x0020_AFP>2 - 5 years</Time_x0020_to_x0020_Impact_x0020_AFP>
+<Likelihood_x0020_Score>4</Likelihood_x0020_Score>
+<Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>18</Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>
+<Primary_x0020_Strategy>3rd Strategy</Primary_x0020_Strategy>
+<Strategy_x0020_touchpoint>Communication</Strategy_x0020_touchpoint>
+<Strategy_x0020_touchpoint2>Communication</Strategy_x0020_touchpoint2>
+<Capability_x0020_1>Protection</Capability_x0020_1>
+</HSD>
+<HSD>
+<ID>13</ID>
+<STEEPLEO_x0020_Primary>Politics</STEEPLEO_x0020_Primary>
+<Steepleo_x0020_Sub_x0020_Category>Regional Governance</Steepleo_x0020_Sub_x0020_Category>
+<Trend_x0020_Name>Digital experience</Trend_x0020_Name>
+<Trend_x0020_Description>The growing social inequalities coupled with the increasing differences in opportunities for the development of individual capacities and career advancement, create a disfavorable situation that will largely determines the nature of migratory flows</Trend_x0020_Description>
+<Impact_x0020_Type>opportunity</Impact_x0020_Type>
+<Threat_x002F_Opportunity_x0020_category>Improvement</Threat_x002F_Opportunity_x0020_category>
+<RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>The trade war engineered by the White House for the past several months shows no signs of abating and its impact on growth is already being felt in Asia</RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>
+<Strategic_x0020_Impact_x0020_Score>3</Strategic_x0020_Impact_x0020_Score>
+<Operational_x0020_Impact_x0020_Score>3</Operational_x0020_Impact_x0020_Score>
+<Time_x0020_to_x0020_Impact_x0020_AFP>2 - 5 years</Time_x0020_to_x0020_Impact_x0020_AFP>
+<Likelihood_x0020_Score>4</Likelihood_x0020_Score>
+<Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>16</Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>
+<Primary_x0020_Strategy>1st Strategy</Primary_x0020_Strategy>
+<Strategy_x0020_touchpoint>Commercial</Strategy_x0020_touchpoint>
+<Strategy_x0020_touchpoint2>Commercial</Strategy_x0020_touchpoint2>
+<Capability_x0020_1>Specialist Response</Capability_x0020_1>
+<Capability_x0020_2>Forensic</Capability_x0020_2>
+</HSD>
+<HSD>
+<ID>14</ID>
+<STEEPLEO_x0020_Primary>Politics</STEEPLEO_x0020_Primary>
+<Steepleo_x0020_Sub_x0020_Category>Global Governance</Steepleo_x0020_Sub_x0020_Category>
+<Trend_x0020_Name>Cyber</Trend_x0020_Name>
+<Trend_x0020_Description>The technological and scientific advances shapes the demand for health worker services especially the very high skill medical professionals</Trend_x0020_Description>
+<Impact_x0020_Type>threat</Impact_x0020_Type>
+<Threat_x002F_Opportunity_x0020_category>Transformation</Threat_x002F_Opportunity_x0020_category>
+<RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>This is a battleground that only a few of the largest and most powerful countries can yet reach</RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>
+<Strategic_x0020_Impact_x0020_Score>3</Strategic_x0020_Impact_x0020_Score>
+<Operational_x0020_Impact_x0020_Score>2</Operational_x0020_Impact_x0020_Score>
+<Time_x0020_to_x0020_Impact_x0020_AFP>2 - 5 years</Time_x0020_to_x0020_Impact_x0020_AFP>
+<Likelihood_x0020_Score>2</Likelihood_x0020_Score>
+<Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>4</Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>
+<Primary_x0020_Strategy>3rd Strategy</Primary_x0020_Strategy>
+<Strategy_x0020_touchpoint>Cyber</Strategy_x0020_touchpoint>
+<Strategy_x0020_touchpoint2>Communication</Strategy_x0020_touchpoint2>
+<Capability_x0020_1>Surveillance</Capability_x0020_1>
+<Capability_x0020_2>Digital Exploitation</Capability_x0020_2>
+</HSD>
+<HSD>
+<ID>15</ID>
+<STEEPLEO_x0020_Primary>Politics</STEEPLEO_x0020_Primary>
+<Steepleo_x0020_Sub_x0020_Category>Security</Steepleo_x0020_Sub_x0020_Category>
+<Trend_x0020_Name>Machine learning</Trend_x0020_Name>
+<Trend_x0020_Description>The expanding demand for health services and implications on health worker supply and skill mix</Trend_x0020_Description>
+<Impact_x0020_Type>opportunity</Impact_x0020_Type>
+<Threat_x002F_Opportunity_x0020_category>Operational</Threat_x002F_Opportunity_x0020_category>
+<RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>By 2030, more than 50% of global GDP will be in the Asian region</RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>
+<Strategic_x0020_Impact_x0020_Score>2</Strategic_x0020_Impact_x0020_Score>
+<Operational_x0020_Impact_x0020_Score>3</Operational_x0020_Impact_x0020_Score>
+<Time_x0020_to_x0020_Impact_x0020_AFP>2 - 5 years</Time_x0020_to_x0020_Impact_x0020_AFP>
+<Likelihood_x0020_Score>1</Likelihood_x0020_Score>
+<Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>1.5</Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>
+<Primary_x0020_Strategy>2nd Strategy</Primary_x0020_Strategy>
+<Strategy_x0020_touchpoint>Commercial</Strategy_x0020_touchpoint>
+<Strategy_x0020_touchpoint2>Terrorism</Strategy_x0020_touchpoint2>
+<Capability_x0020_1>Tasking and Coordination</Capability_x0020_1>
+</HSD>
+<HSD>
+<ID>16</ID>
+<STEEPLEO_x0020_Primary>Legal</STEEPLEO_x0020_Primary>
+<Steepleo_x0020_Sub_x0020_Category>Workforce</Steepleo_x0020_Sub_x0020_Category>
+<Trend_x0020_Name>Embedded sensors</Trend_x0020_Name>
+<Trend_x0020_Description>The global projections of needs and demand for health workers will exceed the capacity of global health labour production; especially when newer thresholds to achieve universal health access are formulated</Trend_x0020_Description>
+<Impact_x0020_Type>threat</Impact_x0020_Type>
+<Threat_x002F_Opportunity_x0020_category>Strategic</Threat_x002F_Opportunity_x0020_category>
+<RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>In response, expect them to double down on investment not in conventional arms but rather in cyber arms. Cyber is the domain that enables the cheapest, largest reach for the least risk.</RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>
+<Strategic_x0020_Impact_x0020_Score>2</Strategic_x0020_Impact_x0020_Score>
+<Operational_x0020_Impact_x0020_Score>5</Operational_x0020_Impact_x0020_Score>
+<Time_x0020_to_x0020_Impact_x0020_AFP>5+ years</Time_x0020_to_x0020_Impact_x0020_AFP>
+<Likelihood_x0020_Score>4</Likelihood_x0020_Score>
+<Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>20</Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>
+<Primary_x0020_Strategy>3rd Strategy</Primary_x0020_Strategy>
+<Strategy_x0020_touchpoint>Commercial</Strategy_x0020_touchpoint>
+<Strategy_x0020_touchpoint2>Cyber</Strategy_x0020_touchpoint2>
+<Capability_x0020_1>Training and Exercising</Capability_x0020_1>
+</HSD>
+<HSD>
+<ID>17</ID>
+<STEEPLEO_x0020_Primary>Legal</STEEPLEO_x0020_Primary>
+<Steepleo_x0020_Sub_x0020_Category>Operations</Steepleo_x0020_Sub_x0020_Category>
+<Trend_x0020_Name>Digital reality</Trend_x0020_Name>
+<Trend_x0020_Description>The increasing urbanization and its disparate impact on access to health services in some countries</Trend_x0020_Description>
+<Impact_x0020_Type>threat</Impact_x0020_Type>
+<Threat_x002F_Opportunity_x0020_category>Improvement</Threat_x002F_Opportunity_x0020_category>
+<RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>As a result, we should expect a cyber dimension to any particularly important or nasty diplomacy, trade negotiations, economic recessions, or even military conflict.</RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>
+<Strategic_x0020_Impact_x0020_Score>5</Strategic_x0020_Impact_x0020_Score>
+<Operational_x0020_Impact_x0020_Score>1</Operational_x0020_Impact_x0020_Score>
+<Time_x0020_to_x0020_Impact_x0020_AFP>5+ years</Time_x0020_to_x0020_Impact_x0020_AFP>
+<Likelihood_x0020_Score>3</Likelihood_x0020_Score>
+<Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>12</Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>
+<Primary_x0020_Strategy>1st Strategy</Primary_x0020_Strategy>
+<Strategy_x0020_touchpoint>Cyber</Strategy_x0020_touchpoint>
+<Strategy_x0020_touchpoint2>Communication</Strategy_x0020_touchpoint2>
+<Capability_x0020_1>Protection</Capability_x0020_1>
+<Capability_x0020_2>Digital Exploitation</Capability_x0020_2>
+</HSD>
+<HSD>
+<ID>18</ID>
+<STEEPLEO_x0020_Primary>Legal</STEEPLEO_x0020_Primary>
+<Steepleo_x0020_Sub_x0020_Category>Procurement</Steepleo_x0020_Sub_x0020_Category>
+<Trend_x0020_Name>Cloud</Trend_x0020_Name>
+<Trend_x0020_Description>The rapid expansion of the private health worker education market (a devolution of the education system) will serve the dual purpose of meeting the excess global demand for tertiary education and a common trade between countries that would generate revenues and economic returns</Trend_x0020_Description>
+<Impact_x0020_Type>opportunity</Impact_x0020_Type>
+<Threat_x002F_Opportunity_x0020_category>Transformation</Threat_x002F_Opportunity_x0020_category>
+<RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>Internet and related stocks are undoubtedly going to be the key beneficiary of this trend, but not only, because this implies also a strong growth for hardware companies, such as chip manufacturers, memory suppliers, etc</RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>
+<Strategic_x0020_Impact_x0020_Score>4</Strategic_x0020_Impact_x0020_Score>
+<Operational_x0020_Impact_x0020_Score>4</Operational_x0020_Impact_x0020_Score>
+<Time_x0020_to_x0020_Impact_x0020_AFP>0 -2 years</Time_x0020_to_x0020_Impact_x0020_AFP>
+<Likelihood_x0020_Score>5</Likelihood_x0020_Score>
+<Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>22.5</Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>
+<Primary_x0020_Strategy>3rd Strategy</Primary_x0020_Strategy>
+<Strategy_x0020_touchpoint>Commercial</Strategy_x0020_touchpoint>
+<Strategy_x0020_touchpoint2>Cyber</Strategy_x0020_touchpoint2>
+<Capability_x0020_1>Specialist Response</Capability_x0020_1>
+<Capability_x0020_2>Forensic</Capability_x0020_2>
+</HSD>
+<HSD>
+<ID>19</ID>
+<STEEPLEO_x0020_Primary>Ethics</STEEPLEO_x0020_Primary>
+<Steepleo_x0020_Sub_x0020_Category>Privacy</Steepleo_x0020_Sub_x0020_Category>
+<Trend_x0020_Name>Analytics</Trend_x0020_Name>
+<Trend_x0020_Description>The shift in professional boundaries (scope of practice and task shifting) and how it can re‐model the health labour market –that warrants a new set of legal requirements for health consumer protection – further still the demand in health care models to address integrated patient‐centered care</Trend_x0020_Description>
+<Impact_x0020_Type>opportunity</Impact_x0020_Type>
+<Threat_x002F_Opportunity_x0020_category>Operational</Threat_x002F_Opportunity_x0020_category>
+<RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>The focus has been on the digitalization wave we have experienced.  Hence, a lot of investors are focused on e-commerce and social media giants</RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>
+<Strategic_x0020_Impact_x0020_Score>4</Strategic_x0020_Impact_x0020_Score>
+<Operational_x0020_Impact_x0020_Score>3</Operational_x0020_Impact_x0020_Score>
+<Time_x0020_to_x0020_Impact_x0020_AFP>0 -2 years</Time_x0020_to_x0020_Impact_x0020_AFP>
+<Likelihood_x0020_Score>5</Likelihood_x0020_Score>
+<Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>22.5</Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>
+<Primary_x0020_Strategy>2nd Strategy</Primary_x0020_Strategy>
+<Strategy_x0020_touchpoint>Terrorism</Strategy_x0020_touchpoint>
+<Strategy_x0020_touchpoint2>Communication</Strategy_x0020_touchpoint2>
+<Capability_x0020_1>Surveillance</Capability_x0020_1>
+</HSD>
+<HSD>
+<ID>20</ID>
+<STEEPLEO_x0020_Primary>Ethics</STEEPLEO_x0020_Primary>
+<Steepleo_x0020_Sub_x0020_Category>Values</Steepleo_x0020_Sub_x0020_Category>
+<Trend_x0020_Name>Blockchain</Trend_x0020_Name>
+<Trend_x0020_Description>The rising demand for the  integration of health and social care in high and middle‐ income countries which will require new pathways to training and competencies around long‐term care as well as innovative financing solutions to the costs of aging and chronic care</Trend_x0020_Description>
+<Impact_x0020_Type>threat</Impact_x0020_Type>
+<Threat_x002F_Opportunity_x0020_category>Strategic</Threat_x002F_Opportunity_x0020_category>
+<RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>Critical infrastructure is vital to continued government services, private sector health, and public safety. As a result, it is both a natural target and a potential tool for distractions and diversions.</RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>
+<Strategic_x0020_Impact_x0020_Score>4</Strategic_x0020_Impact_x0020_Score>
+<Operational_x0020_Impact_x0020_Score>2</Operational_x0020_Impact_x0020_Score>
+<Time_x0020_to_x0020_Impact_x0020_AFP>0 -2 years</Time_x0020_to_x0020_Impact_x0020_AFP>
+<Likelihood_x0020_Score>5</Likelihood_x0020_Score>
+<Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>20</Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>
+<Primary_x0020_Strategy>3rd Strategy</Primary_x0020_Strategy>
+<Strategy_x0020_touchpoint>Cyber</Strategy_x0020_touchpoint>
+<Strategy_x0020_touchpoint2>Commercial</Strategy_x0020_touchpoint2>
+<Capability_x0020_1>Tasking and Coordination</Capability_x0020_1>
+</HSD>
+<HSD>
+<ID>21</ID>
+<STEEPLEO_x0020_Primary>Ethics</STEEPLEO_x0020_Primary>
+<Steepleo_x0020_Sub_x0020_Category>Human Rights</Steepleo_x0020_Sub_x0020_Category>
+<Trend_x0020_Name>Cognitive</Trend_x0020_Name>
+<Trend_x0020_Description>The growing social inequalities coupled with the increasing differences in opportunities for the development of individual capacities and career advancement, create a disfavorable situation that will largely determines the nature of migratory flows</Trend_x0020_Description>
+<Impact_x0020_Type>threat</Impact_x0020_Type>
+<Threat_x002F_Opportunity_x0020_category>Improvement</Threat_x002F_Opportunity_x0020_category>
+<RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>The détente around weaponisation of space has been broken as the U.S. builds a Space Force.</RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>
+<Strategic_x0020_Impact_x0020_Score>1</Strategic_x0020_Impact_x0020_Score>
+<Operational_x0020_Impact_x0020_Score>4</Operational_x0020_Impact_x0020_Score>
+<Time_x0020_to_x0020_Impact_x0020_AFP>0 -2 years</Time_x0020_to_x0020_Impact_x0020_AFP>
+<Likelihood_x0020_Score>5</Likelihood_x0020_Score>
+<Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>20</Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>
+<Primary_x0020_Strategy>1st Strategy</Primary_x0020_Strategy>
+<Strategy_x0020_touchpoint>Commercial</Strategy_x0020_touchpoint>
+<Strategy_x0020_touchpoint2>Terrorism</Strategy_x0020_touchpoint2>
+<Capability_x0020_1>Training and Exercising</Capability_x0020_1>
+</HSD>
+<HSD>
+<ID>22</ID>
+<STEEPLEO_x0020_Primary>Organisation</STEEPLEO_x0020_Primary>
+<Steepleo_x0020_Sub_x0020_Category>Administration</Steepleo_x0020_Sub_x0020_Category>
+<Trend_x0020_Name>Digital experience</Trend_x0020_Name>
+<Trend_x0020_Description>The emergence of social values that influence those held by the new generation of health workers, which increasingly tend to respond more to the labour market demand, supply and salary and less to the concept of public service and social accountability</Trend_x0020_Description>
+<Impact_x0020_Type>opportunity</Impact_x0020_Type>
+<Threat_x002F_Opportunity_x0020_category>Transformation</Threat_x002F_Opportunity_x0020_category>
+<RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>Internet and related stocks are undoubtedly going to be the key beneficiary of this trend, but not only, because this implies also a strong growth for hardware companies, such as chip manufacturers, memory suppliers, etc</RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>
+<Strategic_x0020_Impact_x0020_Score>2</Strategic_x0020_Impact_x0020_Score>
+<Operational_x0020_Impact_x0020_Score>3</Operational_x0020_Impact_x0020_Score>
+<Time_x0020_to_x0020_Impact_x0020_AFP>0 -2 years</Time_x0020_to_x0020_Impact_x0020_AFP>
+<Likelihood_x0020_Score>5</Likelihood_x0020_Score>
+<Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>20</Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>
+<Primary_x0020_Strategy>3rd Strategy</Primary_x0020_Strategy>
+<Strategy_x0020_touchpoint>Cyber</Strategy_x0020_touchpoint>
+<Strategy_x0020_touchpoint2>Cyber</Strategy_x0020_touchpoint2>
+<Capability_x0020_1>Training and Exercising</Capability_x0020_1>
+</HSD>
+<HSD>
+<ID>23</ID>
+<STEEPLEO_x0020_Primary>Organisation</STEEPLEO_x0020_Primary>
+<Steepleo_x0020_Sub_x0020_Category>Capability</Steepleo_x0020_Sub_x0020_Category>
+<Trend_x0020_Name>Cyber</Trend_x0020_Name>
+<Trend_x0020_Description>The shift in professional boundaries (scope of practice and task shifting) and how it can re‐model the health labour market –that warrants a new set of legal requirements for health consumer protection – further still the demand in health care models to address integrated patient‐centered care</Trend_x0020_Description>
+<Impact_x0020_Type>opportunity</Impact_x0020_Type>
+<Threat_x002F_Opportunity_x0020_category>Operational</Threat_x002F_Opportunity_x0020_category>
+<RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>The focus has been on the digitalization wave we have experienced.  Hence, a lot of investors are focused on e-commerce and social media giants</RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>
+<Strategic_x0020_Impact_x0020_Score>5</Strategic_x0020_Impact_x0020_Score>
+<Operational_x0020_Impact_x0020_Score>1</Operational_x0020_Impact_x0020_Score>
+<Time_x0020_to_x0020_Impact_x0020_AFP>0 -2 years</Time_x0020_to_x0020_Impact_x0020_AFP>
+<Likelihood_x0020_Score>4</Likelihood_x0020_Score>
+<Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>14</Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>
+<Primary_x0020_Strategy>3rd Strategy</Primary_x0020_Strategy>
+<Strategy_x0020_touchpoint>Commercial</Strategy_x0020_touchpoint>
+<Strategy_x0020_touchpoint2>Policing</Strategy_x0020_touchpoint2>
+<Capability_x0020_1>Training and Exercising</Capability_x0020_1>
+</HSD>
+<HSD>
+<ID>24</ID>
+<STEEPLEO_x0020_Primary>Organisation</STEEPLEO_x0020_Primary>
+<Steepleo_x0020_Sub_x0020_Category>System</Steepleo_x0020_Sub_x0020_Category>
+<Trend_x0020_Name>Machine learning</Trend_x0020_Name>
+<Trend_x0020_Description>The demographic and epidemiological transition in population, and the ageing health workforce (especially in high‐income and emerging economies) increase demand for more health and other care related workforce</Trend_x0020_Description>
+<Impact_x0020_Type>opportunity</Impact_x0020_Type>
+<Threat_x002F_Opportunity_x0020_category>Strategic</Threat_x002F_Opportunity_x0020_category>
+<RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>The tariff issue has in fact masked the reality of a global business cycle that is steadily losing momentum. This is particularly observable in China, where the latest macroeconomic data is underwhelming</RED_x0020_TEAM_x003A__x0020_How_x0020_would_x0020_Criminals_x0020_exploit_x0020_this_x0020_trend_x003F__x0020__x0020_BLUE_x0020_TEAM_x003A__x0020_Wh>
+<Strategic_x0020_Impact_x0020_Score>3</Strategic_x0020_Impact_x0020_Score>
+<Operational_x0020_Impact_x0020_Score>2</Operational_x0020_Impact_x0020_Score>
+<Time_x0020_to_x0020_Impact_x0020_AFP>0 -2 years</Time_x0020_to_x0020_Impact_x0020_AFP>
+<Likelihood_x0020_Score>4</Likelihood_x0020_Score>
+<Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>14</Overall_x0020_Importance_x0020_to_x0020_AFP_x0020_Score>
+<Primary_x0020_Strategy>2nd Strategy</Primary_x0020_Strategy>
+<Strategy_x0020_touchpoint>Terrorism</Strategy_x0020_touchpoint>
+<Strategy_x0020_touchpoint2>Organisation</Strategy_x0020_touchpoint2>
+<Capability_x0020_1>Training and Exercising</Capability_x0020_1>
+</HSD>
+</dataroot>
