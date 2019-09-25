@@ -1,0 +1,18 @@
+"use strict";
+    function loadXMLDoc() {
+        var xmlhttp = new XMLHttpRequest();
+        xmlhttp.onreadystatechange = function() {
+            myFunction(this);
+        };
+        xmlhttp.open("GET", "https://gen1n.github.io/Projects/HorizonScan/Files/HSD.xml", true);
+        xmlhttp.send();
+    }
+    function myFunction(xml) {
+        var x,a,i,xmlDoc,txt;
+        xmlDoc = xml.responseXML;
+        txt = "";
+        x = xmlDoc.getElementsByTagName("TrendName");
+            txt += x[[[IdNum]]].childNodes[0].nodeValue + "";
+        $axure.setGlobalVariable('TrendName',txt);
+    }
+    loadXMLDoc();
