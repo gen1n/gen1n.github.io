@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<airservices>
+    <projectDetail>
+        <projectTotal>60</projectTotal>
+        <programTotal>08</programTotal>
+        <budgetTotal>$59.45M</budgetTotal>
+    </projectDetail>
+    <status>
+        <ID>1</ID>
+        <program>Digital Information Program</program>
+        <onT>3</onT>
+        <offT>0</offT>
+        <alert>0</alert>
+        <notT>2</notT>
+    </status>
+    <status>
+        <ID>2</ID>
+        <program>ENMP</program>
+        <onT>2</onT>
+        <offT>0</offT>
+        <alert>3</alert>
+        <notT>0</notT>
+    </status>
+    <status>
+        <ID>3</ID>
+        <program>ATM Technology</program>
+        <onT>1</onT>
+        <offT>3</offT>
+        <alert>0</alert>
+        <notT>0</notT>
+    </status><status>
+        <ID>4</ID>
+        <program>CBT</program>
+        <onT>3</onT>
+        <offT>2</offT>
+        <alert>0</alert>
+        <notT>1</notT>
+    </status><status>
+        <ID>5</ID>
+        <program>Cyber Security</program>
+        <onT>3</onT>
+        <offT>1</offT>
+        <alert>2</alert>
+        <notT>1</notT>
+    </status><status>
+        <ID>6</ID>
+        <program>Minor Projects</program>
+        <onT>3</onT>
+        <offT>1</offT>
+        <alert>1</alert>
+        <notT>0</notT>
+    </status><status>
+        <ID>7</ID>
+        <program>Technology Infrastructure</program>
+        <onT>3</onT>
+        <offT>1</offT>
+        <alert>1</alert>
+        <notT>2</notT>
+    </status><status>
+        <ID>8</ID>
+        <program>OneSky Enabling Program</program>
+        <onT>3</onT>
+        <offT>0</offT>
+        <alert>0</alert>
+        <notT>0</notT>
+    </status>
+</airservices>
