@@ -11,8 +11,8 @@
         <program>Digital Information Program</program>
         <onT>3</onT>
         <offT>0</offT>
-        <alert>0</alert>
-        <notT>2</notT>
+        <alert>1</alert>
+        <notT>1</notT>
     </status>
     <status>
         <ID>2</ID>
