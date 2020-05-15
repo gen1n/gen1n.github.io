@@ -1,0 +1,394 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="210px" height="146px" viewBox="0 0 210 146">
+<defs>
+<linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="3.3000000000000007" y1="27.2" x2="21.5" y2="27.2" spreadMethod="pad">
+<stop  offset="0%" stop-color="#FD5B5B"/>
+
+<stop  offset="100%" stop-color="#F74141"/>
+</linearGradient>
+
+<linearGradient id="Gradient_2" gradientUnits="userSpaceOnUse" x1="3.3375000000000004" y1="22.6" x2="21.4625" y2="22.6" spreadMethod="pad">
+<stop  offset="0%" stop-color="#F77500"/>
+
+<stop  offset="100%" stop-color="#F95300"/>
+</linearGradient>
+
+<linearGradient id="Gradient_3" gradientUnits="userSpaceOnUse" x1="9.4" y1="16.1" x2="15.4" y2="16.1" spreadMethod="pad">
+<stop  offset="0%" stop-color="#FD5B5B"/>
+
+<stop  offset="100%" stop-color="#F74141"/>
+</linearGradient>
+
+<linearGradient id="Gradient_4" gradientUnits="userSpaceOnUse" x1="3.424999999999999" y1="17.4" x2="21.075000000000003" y2="17.4" spreadMethod="pad">
+<stop  offset="0%" stop-color="#F77500"/>
+
+<stop  offset="100%" stop-color="#F95300"/>
+</linearGradient>
+
+<linearGradient id="Gradient_5" gradientUnits="userSpaceOnUse" x1="9.9125" y1="10.05" x2="14.887500000000001" y2="10.05" spreadMethod="pad">
+<stop  offset="0%" stop-color="#FD5B5B"/>
+
+<stop  offset="100%" stop-color="#F74141"/>
+</linearGradient>
+
+<g id="Mask_Mask_buoymask_0_Layer0_0_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 210.8 146.8
+L 210.8 0 0 0 0 146.8 210.8 146.8
+M 102.9 56.6
+L 105.4 55.15 108 56.55 109.1 62.55 108 63.2 108 63.7 108.75 64.05
+Q 109.45 64.4 109.9 65.1
+L 109.9 65.25 114.05 76.4
+Q 114.48125 77.11875 114.5 77.95
+L 114.5 79.75
+Q 117.8 81.85 117.7 84.7 117.65 87.6 114.15 89.6 110.55 91.7 105.4 91.7 100.3 91.7 96.65 89.6 93.05 87.55 93 84.65 92.95 81.75 96.35 79.6
+L 96.35 77.35
+Q 96.55 76.7 96.8 76.3
+L 100.8 65.65
+Q 101 64.65 102.1 64.05
+L 102.9 63.7 102.9 63.25 101.75 62.6 102.9 56.6 Z"/>
+</g>
+
+<g id="shark_svg_Illustrator_Symbols_a_0_Layer0_0_MEMBER_0_FILL">
+<path fill="#303A56" stroke="none" d="
+M 3.8 -5.5
+Q 1.35 -4.85 0.15 -5.5 -1.2 -6.2 -4.3 -6.15 -7.15 -6.1 -8.1 -5.65 -6.95 -2.3 -5.15 1.4 -1.6 8.75 1.6 10.35 3.3 11.2 3.45 10.6 3.45 10.5 3.05 7.7 2.05 0.75 6 -6.25 5.05 -5.8 3.8 -5.5 Z"/>
+</g>
+
+<g id="shark_svg_Illustrator_Symbols_a_0_Layer0_0_MEMBER_1_FILL">
+<path fill="#99E0FF" stroke="none" d="
+M -9.1 -4.7
+Q -10.1154296875 -5.1623046875 -9.65 -6 -8.9 -7.25 -2.25 -7.15 -5.65 -7.45 -8.2 -7.25 -13.3 -6.95 -9.15 -4.7
+L -9.1 -4.7 Z"/>
+</g>
+
+<g id="shark_svg_Illustrator_Symbols_a_0_Layer0_0_MEMBER_2_FILL">
+<path fill="#99E0FF" stroke="none" d="
+M 8.05 -9.1
+Q 6.25 -8.7 3.45 -8.3 0.7 -7.9 -4.45 -7.8
+L 0.7 -6.85
+Q 1.2 -6.45 3.05 -6.65 4.9 -6.85 7.3 -7.5 9.75 -8.15 9.3 -6.85 9.0712890625 -6.232421875 8.4 -5.8
+L 10.05 -6.4
+Q 12.85 -8.05 8.05 -9.1 Z"/>
+</g>
+
+<g id="shark_svg_Illustrator_Symbols_a_0_Layer0_0_MEMBER_3_FILL">
+<path fill="#99E0FF" stroke="none" d="
+M -14.1 -9
+Q -16.8 -7.5 -13.95 -5.55 -14.45 -6.25 -13.75 -7.05 -12.25 -8.6 -5.95 -9 0.3 -9 2.9 -9.65 -3 -10 -7.65 -10.2 -11.6 -10.35 -14.1 -9 Z"/>
+</g>
+
+<g id="shark_svg_Illustrator_Symbols_a_0_Layer0_0_MEMBER_4_FILL">
+<path fill="#99E0FF" stroke="none" d="
+M 12.4 -6.05
+Q 7.75 -2.7 5.65 -2.25 9.85 -2.8 12.4 -6.05 Z"/>
+</g>
+
+<g id="shark_svg_Illustrator_Symbols_a_0_Layer0_0_MEMBER_5_FILL">
+<path fill="#99E0FF" stroke="none" d="
+M 15.4 -9.35
+Q 15.15 -11.7 7.1 -10.5 9.6 -10.8 11.75 -10.5 16 -9.9 14.1 -6.7 15.55 -8.15 15.4 -9.35 Z"/>
+</g>
+
+<g id="Tween_1_0_Layer0_0_MEMBER_0_FILL">
+<path fill="#32B7B3" stroke="none" d="
+M 24.7 29.45
+Q 24.7 26.5 21.05 24.4 17.4 22.3 12.3 22.3 7.15 22.3 3.55 24.4 0 26.5 0 29.45 0.05 32.45 3.65 34.5 7.25 36.55 12.4 36.55 17.5 36.55 21.1 34.5 24.7 32.4 24.7 29.45 Z"/>
+</g>
+
+<g id="Tween_1_0_Layer0_0_MEMBER_1_FILL">
+<path fill="#D2E4FF" stroke="none" d="
+M 12.4 33.85
+Q 15.75 33.85 18.8 32.3 21.4 30.8 21.4 28.6
+L 21.5 25.3
+Q 21.3869140625 27.318359375 18.85 28.85 15.85 30.4 12.45 30.4 9.05 30.4 6.05 28.85 3.383203125 27.3189453125 3.35 25.15
+L 3.3 28.55
+Q 3.3 30.8 6 32.3 9 33.85 12.4 33.85 Z"/>
+</g>
+
+<g id="Tween_1_0_Layer0_0_MEMBER_2_FILL">
+<path fill="url(#Gradient_1)" stroke="none" d="
+M 12.4 31.55
+Q 15.8 31.6 18.8 30.05 21.4 28.55 21.4 26.35
+L 21.5 23.1
+Q 21.3833984375 25.116015625 18.85 26.55 15.8 28.15 12.45 28.15 9.05 28.15 6.05 26.55 3.35 25.05 3.35 22.85
+L 3.25 26.3
+Q 3.25 28.5 6 30 9 31.55 12.4 31.55 Z"/>
+</g>
+
+<g id="Tween_1_0_Layer0_0_MEMBER_3_FILL">
+<path fill="url(#Gradient_2)" stroke="none" d="
+M 21.35 23.8
+Q 21.85 22.2 20.7 20.7
+L 17.4 17.25 7.55 17.1 4.7 20.1
+Q 3.05 21.6 3.45 23.4 3.8 25.25 6.05 26.55 9.05 28.15 12.45 28.15 15.8 28.15 18.85 26.55 20.9 25.4 21.35 23.8 Z"/>
+</g>
+
+<g id="Tween_1_0_Layer0_0_MEMBER_4_FILL">
+<path fill="#FAA500" stroke="none" d="
+M 16.3 16.35
+Q 12.4 14.45 8.5 16.35 6.85 17.3 6.85 18.65 6.9 19.95 8.5 20.9 10.35 21.85 12.4 21.85 14.45 21.85 16.3 20.9 17.95 19.95 17.95 18.65 17.9 17.3 16.3 16.35 Z"/>
+</g>
+
+<g id="Tween_1_0_Layer0_0_MEMBER_5_FILL">
+<path fill="url(#Gradient_3)" stroke="none" d="
+M 15.4 11.9
+L 9.4 11.9 9.4 18.65
+Q 9.55 19.4 10.3 19.75 12.4 20.85 14.55 19.75 15.3 19.45 15.4 18.55
+L 15.4 11.9 Z"/>
+</g>
+
+<g id="Tween_1_0_Layer0_0_MEMBER_6_FILL">
+<path fill="#FAA500" stroke="none" d="
+M 14.55 10.65
+Q 12.4 9.6 10.3 10.65 9.65 10.9 9.5 11.45 9.3 12 9.55 12.45 9.8 12.95 10.3 13.1 12.4 14.2 14.55 13.1 15.1 12.95 15.35 12.35 15.5 11.85 15.25 11.35 15.05 10.85 14.55 10.65 Z"/>
+</g>
+
+<g id="Tween_1_0_Layer0_0_MEMBER_7_FILL">
+<path fill="url(#Gradient_4)" stroke="none" d="
+M 12.25 12.55
+L 7.8 10.55 3.4 22.3 15.6 24.75 21.05 21.3 16.85 10.05 12.25 12.55 Z"/>
+</g>
+
+<g id="Tween_1_0_Layer0_0_MEMBER_8_FILL">
+<path fill="#F74141" stroke="none" d="
+M 15.7 9
+Q 12.4 7.35 9.1 9 7.75 9.75 7.75 10.9 7.75 12.05 9.1 12.85 12.4 14.5 15.7 12.85 17.1 12.05 17.1 10.9 17.1 9.8 15.7 9 Z"/>
+</g>
+
+<g id="Tween_1_0_Layer0_0_MEMBER_9_FILL">
+<path fill="#D2E4FF" stroke="none" d="
+M 15.4 9.1
+Q 12.45 7.6 9.4 9.1 8.15 9.8 8.15 10.8 8.15 11.8 9.4 12.55 10.85 13.3 12.4 13.3 14 13.3 15.4 12.55 16.7 11.85 16.7 10.85 16.7 9.85 15.4 9.1 Z"/>
+</g>
+
+<g id="Tween_1_0_Layer0_0_MEMBER_10_FILL">
+<path fill="url(#Gradient_5)" stroke="none" d="
+M 14.9 10.7
+L 14.9 8 9.9 8 9.9 10.8
+Q 9.9 11.35 10.65 11.7 12.4 12.4 14.15 11.7 14.9 11.3 14.9 10.7 Z"/>
+</g>
+
+<g id="Tween_1_0_Layer0_0_MEMBER_11_FILL">
+<path fill="#FAA500" stroke="none" d="
+M 14.15 6.8
+Q 13.35 6.3 12.4 6.3 11.45 6.3 10.65 6.8 10.25 7.05 10.1 7.35 9.8 7.9 9.95 8.45 10.15 9 10.65 9.25 11.45 9.8 12.4 9.8 13.35 9.8 14.15 9.25 14.5 9.1 14.75 8.7 15 8.15 14.85 7.6 14.65 7.05 14.15 6.8 Z"/>
+</g>
+
+<g id="Tween_1_0_Layer0_0_MEMBER_12_FILL">
+<path fill="#CE2020" stroke="none" d="
+M 14.9 1.45
+L 12.45 2.9 12.4 9.6 16.05 7.5 14.9 1.45 Z"/>
+</g>
+
+<g id="Tween_1_0_Layer0_0_MEMBER_13_FILL">
+<path fill="#F74141" stroke="none" d="
+M 12.45 2.9
+L 9.95 1.45 8.8 7.5 12.4 9.6 12.45 2.9 Z"/>
+</g>
+
+<g id="Tween_1_0_Layer0_0_MEMBER_14_FILL">
+<path fill="#FD5B5B" stroke="none" d="
+M 12.45 2.9
+L 14.9 1.45 12.4 0 9.95 1.45 12.45 2.9 Z"/>
+</g>
+
+<g id="Tween_1_0_Layer0_0_MEMBER_15_FILL">
+<path fill="#4E5463" stroke="none" d="
+M 10.3 5.25
+L 10.75 3 10.4 2.8 9.85 5.5 11.8 6.45 11.8 5.95 10.3 5.25 Z"/>
+</g>
+
+<g id="Tween_1_0_Layer0_0_MEMBER_16_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 11.8 3.6
+L 10.75 3 10.3 5.25 11.8 5.95 11.8 3.6 Z"/>
+</g>
+
+<g id="Tween_1_0_Layer0_0_MEMBER_17_FILL">
+<path fill="#4E5463" stroke="none" d="
+M 14.2 3
+L 14.6 5.25 13.15 5.95 13.15 6.45 15.05 5.5 14.55 2.8 14.2 3 Z"/>
+</g>
+
+<g id="Tween_1_0_Layer0_0_MEMBER_18_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 14.2 3
+L 13.15 3.6 13.15 5.95 14.6 5.25 14.2 3 Z"/>
+</g>
+
+<g id="Tween_1_0_Layer0_0_MEMBER_19_FILL">
+<path fill="#FAA500" stroke="none" d="
+M 7.5 18.2
+Q 6.55 17.75 6.05 17 6 17 6.05 16.95
+L 5.9 16.75 5.7 16.35 5.25 17.5
+Q 5.4 18.5 5.9 19.2
+L 5.9 19.25 6.1 19.55
+Q 6.65 20.15 7.45 20.65 9.8 21.85 12.45 21.85 15.1 21.85 17.45 20.65 18.2 20.2 18.8 19.6
+L 19.1 19.1 19.2 18.85 19.35 18.6
+Q 19.6 18.05 19.65 17.5
+L 19.25 16.35 18.8 17.05
+Q 18.35 17.7 17.5 18.2 15.15 19.4 12.5 19.4 9.85 19.4 7.5 18.2 Z"/>
+</g>
+</defs>
+
+<mask id="Mask_Mask_1">
+<g transform="matrix( 0.998138427734375, -0.060821533203125, 0.060821533203125, 0.998138427734375, -4.15,6.6) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Mask_Mask_buoymask_0_Layer0_0_FILL"/>
+</g>
+</g>
+</mask>
+
+<g mask="url(#Mask_Mask_1)">
+<g id="shark1" transform="matrix( 1, 0, 0, 1, 47.75,60.55) ">
+<g transform="matrix( 0.9659271240234375, -0.2588043212890625, 0.2588043212890625, 0.9659271240234375, 92.85,31.5) ">
+<g transform="matrix( 1, 0, 0, 1, 0.1,-0.05) ">
+<g id="a" transform="matrix( 0.7199859619140625, 0, 0, -0.7199859619140625, 11,7.85) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#shark_svg_Illustrator_Symbols_a_0_Layer0_0_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#shark_svg_Illustrator_Symbols_a_0_Layer0_0_MEMBER_1_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#shark_svg_Illustrator_Symbols_a_0_Layer0_0_MEMBER_2_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#shark_svg_Illustrator_Symbols_a_0_Layer0_0_MEMBER_3_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#shark_svg_Illustrator_Symbols_a_0_Layer0_0_MEMBER_4_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#shark_svg_Illustrator_Symbols_a_0_Layer0_0_MEMBER_5_FILL"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+
+<g mask="url(#Mask_Mask_1)">
+<g transform="matrix( 1, 0, 0, 1, 49.4,61) ">
+<g transform="matrix( 1, 0, 0, 1, 43.7,35.9) ">
+<g transform="matrix( 1, 0, 0, 1, 0.1,-0.05) ">
+<g id="a_FL" transform="matrix( 0.7199859619140625, 0, 0, -0.7199859619140625, 11,7.85) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#shark_svg_Illustrator_Symbols_a_0_Layer0_0_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#shark_svg_Illustrator_Symbols_a_0_Layer0_0_MEMBER_1_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#shark_svg_Illustrator_Symbols_a_0_Layer0_0_MEMBER_2_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#shark_svg_Illustrator_Symbols_a_0_Layer0_0_MEMBER_3_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#shark_svg_Illustrator_Symbols_a_0_Layer0_0_MEMBER_4_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#shark_svg_Illustrator_Symbols_a_0_Layer0_0_MEMBER_5_FILL"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+
+<g transform="matrix( 0.998138427734375, -0.060821533203125, 0.060821533203125, 0.998138427734375, 92,55.9) ">
+<g transform="matrix( 1, 0, 0, 1, 12.35,18.25) ">
+<g transform="matrix( 1, 0, 0, 1, -12.35,-18.25) ">
+<use xlink:href="#Tween_1_0_Layer0_0_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -12.35,-18.25) ">
+<use xlink:href="#Tween_1_0_Layer0_0_MEMBER_1_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -12.35,-18.25) ">
+<use xlink:href="#Tween_1_0_Layer0_0_MEMBER_2_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -12.35,-18.25) ">
+<use xlink:href="#Tween_1_0_Layer0_0_MEMBER_3_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -12.35,-18.25) ">
+<use xlink:href="#Tween_1_0_Layer0_0_MEMBER_4_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -12.35,-18.25) ">
+<use xlink:href="#Tween_1_0_Layer0_0_MEMBER_5_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -12.35,-18.25) ">
+<use xlink:href="#Tween_1_0_Layer0_0_MEMBER_6_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -12.35,-18.25) ">
+<use xlink:href="#Tween_1_0_Layer0_0_MEMBER_7_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -12.35,-18.25) ">
+<use xlink:href="#Tween_1_0_Layer0_0_MEMBER_8_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -12.35,-18.25) ">
+<use xlink:href="#Tween_1_0_Layer0_0_MEMBER_9_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -12.35,-18.25) ">
+<use xlink:href="#Tween_1_0_Layer0_0_MEMBER_10_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -12.35,-18.25) ">
+<use xlink:href="#Tween_1_0_Layer0_0_MEMBER_11_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -12.35,-18.25) ">
+<use xlink:href="#Tween_1_0_Layer0_0_MEMBER_12_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -12.35,-18.25) ">
+<use xlink:href="#Tween_1_0_Layer0_0_MEMBER_13_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -12.35,-18.25) ">
+<use xlink:href="#Tween_1_0_Layer0_0_MEMBER_14_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -12.35,-18.25) ">
+<use xlink:href="#Tween_1_0_Layer0_0_MEMBER_15_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -12.35,-18.25) ">
+<use xlink:href="#Tween_1_0_Layer0_0_MEMBER_16_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -12.35,-18.25) ">
+<use xlink:href="#Tween_1_0_Layer0_0_MEMBER_17_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -12.35,-18.25) ">
+<use xlink:href="#Tween_1_0_Layer0_0_MEMBER_18_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -12.35,-18.25) ">
+<use xlink:href="#Tween_1_0_Layer0_0_MEMBER_19_FILL"/>
+</g>
+</g>
+</g>
+</svg>
