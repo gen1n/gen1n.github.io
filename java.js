@@ -11,7 +11,7 @@ let data=[{
 }];
 
 
-document.getElementById('u18_text').addEventListener("click", () => {
+document.getElementById('u18').addEventListener("click", () => {
     XLSX.utils.json_to_sheet(data, 'out.xlsx');
     if(selectedFile){
         let fileReader = new FileReader();
@@ -23,7 +23,7 @@ document.getElementById('u18_text').addEventListener("click", () => {
          workbook.SheetNames.forEach(sheet => {
               let rowObject = XLSX.utils.sheet_to_row_object_array(workbook.Sheets[sheet]);
               console.log(rowObject);
-              document.getElementById("u20_text").innerHTML = JSON.stringify(rowObject,undefined,4)
+              document.getElementById("jsondata").innerHTML = JSON.stringify(rowObject,undefined,4)
          });
         }
     }
