@@ -1,6 +1,6 @@
 let selectedFile;
 console.log(window.XLSX);
-document.getElementById('u17_inpu').addEventListener("change", (event) => {
+document.getElementById('u17_input').addEventListener("change", (event) => {
     selectedFile = event.target.files[0];
 });
 
