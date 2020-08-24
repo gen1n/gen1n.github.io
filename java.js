@@ -1,3 +1,5 @@
+var title, dom1, dom2, dom3, dom4;
+
 let selectedFile;
 console.log(window.XLSX);
 document.getElementById('u17_input').addEventListener("change", (event) => {
@@ -19,11 +21,18 @@ document.getElementById('u18').addEventListener("click", () => {
         fileReader.onload = (event)=>{
          let data = event.target.result;
          let workbook = XLSX.read(data,{type:"binary"});
+            console.log("--------------");
+            console.log(data);
+            console.log("--------------");
          console.log(workbook);
          workbook.SheetNames.forEach(sheet => {
               let rowObject = XLSX.utils.sheet_to_row_object_array(workbook.Sheets[sheet]);
               console.log(rowObject);
+              console.log("--------------");
               document.getElementById("jsondata").innerHTML = JSON.stringify(rowObject,undefined,4)
+             data=JSON.stringify(rowObject,undefined,4);
+             console.log("data:-----");
+             console.log(data);
          });
         }
     }
